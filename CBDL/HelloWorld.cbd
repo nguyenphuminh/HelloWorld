@@ -1,0 +1,9 @@
+SuDung "XuatNhap.cbd";
+SuDung "HeThong.cbd";
+
+Lop ChuongTrinh
+	HamSo BatDau( args )
+		vaora = XuatNhap();
+		vaora.HienThi( "Hello, World\n" );
+	Het;
+Het;
