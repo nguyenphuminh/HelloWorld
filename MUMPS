@@ -1,0 +1,3 @@
+hi() 
+write "Hello, World!",!
+quit
