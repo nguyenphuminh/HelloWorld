@@ -1,0 +1,5 @@
+# this is program for hello world in krypton
+# checkout my language on github.com/rish246/KryptonLang
+
+print("Hello World!");
+
