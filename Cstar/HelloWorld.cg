@@ -1,0 +1,7 @@
+  use std.argv;
+use std.io;
+
+void main(const std.argv &args)
+{
+	printf("Hello World!");
+}
