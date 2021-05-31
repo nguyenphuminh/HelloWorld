@@ -1,0 +1,5 @@
+GUI r
+STRING cmd
+ENTER
+STRING echo "Hello World"
+ENTER
