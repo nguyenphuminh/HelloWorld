@@ -1,0 +1,9 @@
+#[app::classname("hello_world")]
+#[app::wait(true)]
+#[cfg::CIL(true)]
+
+include 'ystdio'
+
+func main() {
+  io::print("Hello World")
+}
