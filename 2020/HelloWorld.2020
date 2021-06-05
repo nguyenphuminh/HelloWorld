@@ -1,0 +1,4 @@
+zoom HelloWorld {
+ start meeting.
+ std'out@println("Hello, world!").
+}
