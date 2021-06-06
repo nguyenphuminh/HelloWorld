@@ -1,0 +1,2 @@
+ECHO "Hello, world!"
+STP
