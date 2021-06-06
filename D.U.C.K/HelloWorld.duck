@@ -1,0 +1,5 @@
+0: x = input();
+1: y += 99999999999999999999999999999;
+2: if(x == "") D.U.C.K.goto(0);
+3: D.U.C.K.send(-y);
+4: output("Hello, World!");
