@@ -1,0 +1,4 @@
+10  CALL 10 count
+    COME FROM 10 + SGN count
+    TELL "Hello, world!" NEXT
+11  CALL count - 1 count
