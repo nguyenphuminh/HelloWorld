@@ -1,5 +1,0 @@
-import Std.Console
-
-fn Main() {
-  Console.Writeln('Hello World')
-}
