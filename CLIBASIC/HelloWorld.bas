@@ -1,1 +1,1 @@
-PRINT "Hello, World!"
+? "Hello, World!"
