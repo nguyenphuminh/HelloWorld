@@ -1,3 +1,5 @@
+#!/usr/bin/env clibasic
+
 _TXTLOCK
 _TXTATTRIB "TRUECOLOR", 1
 OC = FGC()
@@ -24,5 +26,5 @@ IF B < 0: Z = Z * -1: ENDIF
 WAITMS LIMIT(10 - TIMERMS(), 0, 10)
 RESETTIMER
 PUT "\r"
-LOCATE , -1
+RLOCATE , -1
 GOTO LOOP
