@@ -1,0 +1,11 @@
+#!/bin/bash
+
+set -e
+SRC=$(dirname $0)
+cd $SRC
+ARG=${1:-""}
+
+case $ARG in
+    build)
+        echo "Hello, world" ;;
+esac
