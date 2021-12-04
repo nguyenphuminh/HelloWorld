@@ -1,0 +1,5 @@
+(define-service (server-date)                  ;1
+  (current-date))                              ;2
+
+(<HTML>                                        ;4
+  (<H1> "Hello world"))                        ;5
