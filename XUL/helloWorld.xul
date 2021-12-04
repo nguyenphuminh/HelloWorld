@@ -1,0 +1,4 @@
+<?xml-stylesheet href="chrome://global/skin" type="text/css" ?>
+<window xmlns="" align="center" pack="center" flex="1">
+ <description>Hello World</description>
+</window>
