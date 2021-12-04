@@ -1,0 +1,7 @@
+MSG: .ASCIIZ "Hello World"
+START: LDX #0
+LOOP: LDA MSG,X
+ JSR $FFD2
+ INX
+ BNE @LOOP 
+ RTS
