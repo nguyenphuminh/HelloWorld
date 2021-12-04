@@ -1,0 +1,3 @@
+PROC hello:
+ PRINT "Hello, world!"
+ENDP
