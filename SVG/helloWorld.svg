@@ -1,6 +1,6 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Layer 1</title>
-  <text transform="matrix(4.94024, 0, 0, 4.6319, -1510.41, -1015.72)" xml:space="preserve" text-anchor="center" font-family="Noto Sans JP" font-size="14" id="svg_1" y="300" x="300" stroke-width="0" stroke="#000" fill="#000000">hello world</text>
+  <text xml:space="preserve" text-anchor="center" font-family="Noto Sans JP" font-size="14" id="svg_1" y="300" x="300" stroke-width="0" stroke="#000" fill="#000000">hello world</text>
  </g>
 </svg>
