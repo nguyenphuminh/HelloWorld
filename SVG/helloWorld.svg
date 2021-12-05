@@ -1,3 +1,6 @@
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <text><h1>Hello World</h1></text>
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <title>Hello World</title>
+  <text transform="matrix(4.94024, 0, 0, 4.6319, -1510.41, -1015.72)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_1" y="292.95178" x="333.28841" stroke-width="0" stroke="#000" fill="#000000">hello world</text>
+ </g>
 </svg>
