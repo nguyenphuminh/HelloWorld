@@ -1,3 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg">
-    <h1>Hello world</h1>
+<svg version="1.1"
+     width="300" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+  <text x="0" y="0" font-size="60" text-anchor="middle" fill="white">Hello World</text>
 </svg>
