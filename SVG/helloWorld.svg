@@ -1,6 +1,6 @@
 <svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
  <g>
   <title>Hello World</title>
-  <text xml:space="preserve" text-anchor="center" font-size="24" id="svg_1" stroke-width="0" stroke="#000" fill="#000000">hello world</text>
+  <text xml:space="preserve" text-anchor="start" font-size="24" id="svg_1" stroke-width="0" stroke="#000" fill="#000000">hello world</text>
  </g>
 </svg>
