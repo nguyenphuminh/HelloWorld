@@ -1,0 +1,5 @@
+class Hello {
+ static public main: args {
+ Console << "Hello World\n";
+ }
+}

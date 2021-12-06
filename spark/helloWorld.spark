@@ -1,0 +1,11 @@
+with Spark_IO;
+--# inherit Spark_IO;
+--# main_program;
+
+procedure Hello_World
+--# global in out Spark_IO.Outputs;
+--# derives Spark_IO.Outputs from Spark_IO.Outputs;
+is
+begin
+ Spark_IO.Put_Line (Spark_IO.Standard_Output, "Hello World", 0);
+end Hello_World;

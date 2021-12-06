@@ -1,0 +1,6 @@
+<<
+     CLLCD
+     "Hello World" 1 DISP
+     0 WAIT
+     DROP
+   >>

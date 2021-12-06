@@ -1,0 +1,4 @@
+ /FREE
+ DSPLY 'Hello World';
+ *InLR = *On;
+ /END-FREE 

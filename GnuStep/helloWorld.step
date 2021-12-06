@@ -1,0 +1,14 @@
+#import <Cocoa/Cocoa.h>
+@interface hello : NSObject {
+}
+@end
+
+@implementation hello
+
+-(void)awakeFromNib
+{ 
+ NSRunAlertPanel(@"Hello world", @"Hello World", @"Hello World",
+ nil, nil);
+}
+
+@end
