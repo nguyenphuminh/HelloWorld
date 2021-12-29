@@ -1,0 +1,2 @@
+"io" enable
+"Hello, World!\n" 1 writeout
