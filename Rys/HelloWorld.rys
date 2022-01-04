@@ -1,0 +1,3 @@
+"io" "exit" %stack enable
+"Hello, World!\n" 1 writeout
+0 exit
