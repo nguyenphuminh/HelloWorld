@@ -1,3 +1,10 @@
-"io" "exit" %stack enable
-"Hello, World!\n" 1 writeout
-0 exit
+"hello world\n" 1 writefd  -- This writes string "hello world" with a newline to
+                           -- File descriptor 1, which on UNIX based OSes is
+                           -- STDOUT
+
+1 drop                     -- Write syscall n returns the number of bytes successfully
+                           -- written into the file or -1 on failure, so we have to discard it
+
+0 exit                     -- Exit with code 0 (success), this is required
+                           -- Unless you want a segfault
+
