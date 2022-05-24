@@ -1,0 +1,4 @@
+func main(): int {
+  stdout.puts("Hello World");
+  return 0;
+}
