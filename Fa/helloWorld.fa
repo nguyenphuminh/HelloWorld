@@ -1,8 +1,8 @@
 include 'std/std.fa'
 
-macro main
+fun main
     "Hello, world!" ro %puts
     %EXIT_SUCCESS %exit
 end
 
-%main
+#main
