@@ -1,0 +1,8 @@
+include 'std/std.fa'
+
+fun main
+    "Hello, world!" ro %puts
+    %EXIT_SUCCESS %exit
+end
+
+#main
